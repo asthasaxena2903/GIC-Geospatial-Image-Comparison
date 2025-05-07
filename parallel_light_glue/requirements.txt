@@ -1,0 +1,15 @@
+torch>=1.9.1
+torchvision>=0.3
+numpy
+opencv-python
+matplotlib
+kornia>=0.6.11
+utm
+torch
+torchvision
+pandas
+opencv-python
+matplotlib
+seaborn
+tqdm
+Pillow
